@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on **real project tasks** to gain valuable experience
 - 📫 How to reach me  (**KAMINENILEELA1992@GMAIL.COM**)
+- [My Medium Blog](https://medium.com/@kaminenileela)
+- [My LinkedIn Profile](https://www.linkedin.com/in/leelakumari/)
 
 
-## Highlights
+## Project Highlights
 - Implemented a 3 - tier application "expense" that tracks the expenses of the users through shell scripting manually.
 - Implemented GITOPS where the GIT is the source code repository (single source of truth, for all the applications related code)
 - Implemented project infrastructure through Terraform i.e., setting up VPC, security groups, VPN, RDS database, application load balancer.
